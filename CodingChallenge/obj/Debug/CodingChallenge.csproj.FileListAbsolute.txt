@@ -1,0 +1,10 @@
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.exe.config
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.exe
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\bin\Debug\CodingChallenge.pdb
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.csprojAssemblyReference.cache
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.Form1.resources
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.Properties.Resources.resources
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.csproj.GenerateResource.cache
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.exe
+C:\Users\fer_n\GitSources\CodingChallenge\CodingChallenge\obj\Debug\CodingChallenge.pdb
